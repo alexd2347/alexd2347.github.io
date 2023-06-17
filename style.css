@@ -1,9 +1,9 @@
 :root {
-    --color-primario: #d427ff;
-    --color-secundario: #ff2365;
-    --color-tercero: rgb(230, 254, 255);
-    --color-cuarto: #00ffe1;
-    --color-ganador: rgb(219, 235, 0);
+    --color-primario: #121212;
+    --color-secundario: #fb00ff;
+    --color-tercero: rgb(255, 255, 255);
+    --color-cuarto: #00e1ff;
+    --color-ganador: rgb(209, 216, 0);
 }
 
 @font-face {
@@ -426,6 +426,29 @@ body {
         justify-content: center;
     }
 
+    .button-aceptar {
+        width: 23vw;
+        height: 23vw;
+        margin: .3vw;
+        position: relative;
+        color: var(--color-primario);
+        border-radius: 20px;
+        border: 3px solid var(--color-tercero);
+        font-size: 2vw;
+        background-color: var(--color-tercero);
+        line-height: 3vw;
+        overflow: hidden;
+        transition: 0.2s;
+    }
+
+    .button-aceptar:hover {
+        background-color: var(--color-tercero);
+        box-shadow: 0 0 50px var(--color-tercero);
+        color: var(--color-primario);
+        width: 23vw !important;
+        height: 10vw !important;
+    }
+
     .button {
         width: 23vw;
         height: 23vw;
@@ -504,7 +527,7 @@ body {
         font-size: 15VW;
         border: 3px solid var(--color-ganador);
         color: var(--color-tercero);
-        background-color: var(--color-cuarto);
+        background-color: var(--color-secundario);
         overflow: hidden;
         box-shadow: 0 0 50px var(--color-ganador);
         transition: 0.5s;
