@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "./static/css/main.edd0e7cc.css",
-    "main.js": "./static/js/main.9f083e44.js",
+    "main.js": "./static/js/main.80f03546.js",
     "static/js/453.c8f8d348.chunk.js": "./static/js/453.c8f8d348.chunk.js",
     "static/media/mapa.png": "./static/media/mapa.1899fe1ed3a16ad4e9be.png",
     "static/media/siiam.png": "./static/media/siiam.abcc1cc272da9f052bfd.png",
+    "static/media/Syspol.png": "./static/media/Syspol.e8999c679154e7e44b3a.png",
     "static/media/yo.jpg": "./static/media/yo.7a25e830e4254c5aaeec.jpg",
-    "static/media/Syspol.png": "./static/media/Syspol.82303fbe01b7cb168b76.png",
     "static/media/logo.png": "./static/media/logo.c8e5f5413616d2d8709c.png",
     "static/media/postgres.png": "./static/media/postgres.eba8cd3a04411be7a155.png",
     "static/media/AWS.png": "./static/media/AWS.164386d06e0e040c09d7.png",
@@ -34,11 +34,11 @@
     "static/media/Tierra.svg": "./static/media/Tierra.bbeca5cffba61cc838814e68ac22ab67.svg",
     "static/media/Electrico.svg": "./static/media/Electrico.920883099133b7db3f983853435d31a6.svg",
     "main.edd0e7cc.css.map": "./static/css/main.edd0e7cc.css.map",
-    "main.9f083e44.js.map": "./static/js/main.9f083e44.js.map",
+    "main.80f03546.js.map": "./static/js/main.80f03546.js.map",
     "453.c8f8d348.chunk.js.map": "./static/js/453.c8f8d348.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.edd0e7cc.css",
-    "static/js/main.9f083e44.js"
+    "static/js/main.80f03546.js"
   ]
 }
