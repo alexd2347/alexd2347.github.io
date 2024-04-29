@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.62fbe535.css",
-    "main.js": "./static/js/main.1fbb8c06.js",
+    "main.js": "./static/js/main.1499ea88.js",
     "static/js/453.c8f8d348.chunk.js": "./static/js/453.c8f8d348.chunk.js",
     "static/media/mapa.png": "./static/media/mapa.1899fe1ed3a16ad4e9be.png",
     "static/media/uvaq-logo.jpg": "./static/media/uvaq-logo.e5849d39772ec6ce13fc.jpg",
@@ -19,11 +19,11 @@
     "static/media/linkedin.png": "./static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "./index.html",
     "main.62fbe535.css.map": "./static/css/main.62fbe535.css.map",
-    "main.1fbb8c06.js.map": "./static/js/main.1fbb8c06.js.map",
+    "main.1499ea88.js.map": "./static/js/main.1499ea88.js.map",
     "453.c8f8d348.chunk.js.map": "./static/js/453.c8f8d348.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62fbe535.css",
-    "static/js/main.1fbb8c06.js"
+    "static/js/main.1499ea88.js"
   ]
 }
