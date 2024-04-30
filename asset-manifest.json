@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.62fbe535.css",
-    "main.js": "./static/js/main.1499ea88.js",
+    "main.js": "./static/js/main.c6268554.js",
     "static/js/453.c8f8d348.chunk.js": "./static/js/453.c8f8d348.chunk.js",
     "static/media/mapa.png": "./static/media/mapa.1899fe1ed3a16ad4e9be.png",
     "static/media/uvaq-logo.jpg": "./static/media/uvaq-logo.e5849d39772ec6ce13fc.jpg",
     "static/media/siiam.png": "./static/media/siiam.abcc1cc272da9f052bfd.png",
-    "static/media/Syspol.png": "./static/media/Syspol.e8999c679154e7e44b3a.png",
     "static/media/yo.jpg": "./static/media/yo.7a25e830e4254c5aaeec.jpg",
+    "static/media/Syspol.png": "./static/media/Syspol.e96e2f27ed4c8e33b440.png",
     "static/media/casa-policia.jpg": "./static/media/casa-policia.678312afc3ac8f606153.jpg",
     "static/media/postgres.png": "./static/media/postgres.eba8cd3a04411be7a155.png",
     "static/media/AWS.png": "./static/media/AWS.164386d06e0e040c09d7.png",
@@ -19,11 +19,11 @@
     "static/media/linkedin.png": "./static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "./index.html",
     "main.62fbe535.css.map": "./static/css/main.62fbe535.css.map",
-    "main.1499ea88.js.map": "./static/js/main.1499ea88.js.map",
+    "main.c6268554.js.map": "./static/js/main.c6268554.js.map",
     "453.c8f8d348.chunk.js.map": "./static/js/453.c8f8d348.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.62fbe535.css",
-    "static/js/main.1499ea88.js"
+    "static/js/main.c6268554.js"
   ]
 }
