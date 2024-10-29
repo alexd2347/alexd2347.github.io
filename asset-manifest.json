@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.8edfb1ab.css",
-    "main.js": "./static/js/main.79cb9e6b.js",
+    "main.css": "./static/css/main.d56a3a18.css",
+    "main.js": "./static/js/main.1e1c64e8.js",
     "static/js/453.c8f8d348.chunk.js": "./static/js/453.c8f8d348.chunk.js",
     "static/media/mapa.png": "./static/media/mapa.ac62ff2bc972ebc3f5c4.png",
     "static/media/uvaq-logo.jpg": "./static/media/uvaq-logo.e5849d39772ec6ce13fc.jpg",
     "static/media/siiam.png": "./static/media/siiam.3d9cf4ab8fc0e79fe6c7.png",
+    "static/media/ventas.png": "./static/media/ventas.49d82e83d65cef5833c4.png",
     "static/media/Syspol.png": "./static/media/Syspol.93207d2f68c4092568dc.png",
     "static/media/yo.jpg": "./static/media/yo.7a25e830e4254c5aaeec.jpg",
     "static/media/casa-policia.jpg": "./static/media/casa-policia.0bbbaa957c6b8019b692.jpg",
+    "static/media/reportes.png": "./static/media/reportes.3d28188f103632a3cca5.png",
     "static/media/postgres.png": "./static/media/postgres.eba8cd3a04411be7a155.png",
     "static/media/AWS.png": "./static/media/AWS.164386d06e0e040c09d7.png",
     "static/media/policia-logo.jpg": "./static/media/policia-logo.d3fde5e1a979d6cad5fd.jpg",
@@ -18,12 +20,12 @@
     "static/media/github.png": "./static/media/github.f11021803f68852df283.png",
     "static/media/linkedin.png": "./static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "./index.html",
-    "main.8edfb1ab.css.map": "./static/css/main.8edfb1ab.css.map",
-    "main.79cb9e6b.js.map": "./static/js/main.79cb9e6b.js.map",
+    "main.d56a3a18.css.map": "./static/css/main.d56a3a18.css.map",
+    "main.1e1c64e8.js.map": "./static/js/main.1e1c64e8.js.map",
     "453.c8f8d348.chunk.js.map": "./static/js/453.c8f8d348.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8edfb1ab.css",
-    "static/js/main.79cb9e6b.js"
+    "static/css/main.d56a3a18.css",
+    "static/js/main.1e1c64e8.js"
   ]
 }
